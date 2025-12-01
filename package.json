@@ -12,6 +12,9 @@
     "url": "https://github.com/codevumab/style/issues"
   },
   "homepage": "https://style.codevum.com",
+  "scripts": {
+    "build": "cp *.css dist/"
+  },
   "devDependencies": {
     "wrangler": "^4.51.0"
   }
